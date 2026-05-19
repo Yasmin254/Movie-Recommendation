@@ -2,6 +2,5 @@ streamlit
 pandas
 numpy
 scikit-learn
-scikit-surprise
 joblib
 streamlit_option_menu
